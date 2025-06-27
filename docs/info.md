@@ -9,11 +9,10 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
-
+The project will work by modelling a chip design
 ## How to test
 
-Explain how to use your project
+The project will be used to see a model of the chip design in 3D
 
 ## External hardware
 
